@@ -1,0 +1,53 @@
+{
+  "concertDetails": {
+    "perfomer": "One Direction",
+    "venue": "Mile One Center",
+    "location": "St. John's",
+    "date": "2015-10-31"
+  },
+  "concertSetUpItems": [
+    {
+      "category": "Merchandise:",
+      "items": [" Shirts,", " Sweaters,", " Posters,", " KeyChains,", " CD's"]
+    },
+    {
+      "category": "Food:",
+      "items": [
+        "Soda,",
+        " Water,",
+        " Popcorn,",
+        " Fries,",
+        " Hot Dogs,",
+        " Candy"
+      ]
+    },
+    {
+      "category": "Seat Type:",
+      "items": [
+        "Floor,",
+        " Sections,",
+        " Standing,",
+        " Suites,",
+        " Wheelchair Accessible"
+      ]
+    },
+    {
+      "category": "Entry:",
+      "items": ["ID's,", " Tickets,", " Phone,", " Cash,", " Credit Card"]
+    }
+  ],
+  "concertTickets": [
+    {
+      "type": "General Admission",
+
+      "price": "$50",
+      "availability": "Available"
+    },
+
+    {
+      "type": "VIP",
+      "price": "$150",
+      "availability": "Sold Out"
+    }
+  ]
+}
